@@ -7,11 +7,6 @@ import java.util.List;
 
 public class OrderPickupAndCashlessPaymentTest extends WebDriverSettings {
 
-    private String email = "test@mail.ru";
-    private String name = "testName";
-    private String lastName = "testLastName";
-    private String phoneNumber = "88000000000";
-
     @Test
     public void pickupAndCashlessPayment() {
         HomePage homePage = new HomePage(driver).cityConfirm();

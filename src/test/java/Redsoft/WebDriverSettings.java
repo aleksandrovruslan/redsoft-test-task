@@ -9,6 +9,12 @@ public class WebDriverSettings {
 
     protected WebDriver driver;
 
+    protected String address = "Россия, Московская область, Балашиха , микрорайон Железнодорожный, Пролетарская улица, 2к2";
+    protected String email = "test@mail.ru";
+    protected String name = "testName";
+    protected String lastName = "testLastName";
+    protected String phoneNumber = "88000000000";
+
     static {
         System.setProperty("webdriver.chrome.driver", getDriverPath());
     }

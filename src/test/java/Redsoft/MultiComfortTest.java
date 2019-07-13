@@ -11,12 +11,6 @@ public class MultiComfortTest extends WebDriverSettings {
 
     private MultiComfortPage multiComfortPage;
     private double size = 10.5;
-    private String address = "Россия, Московская область, Балашиха" +
-            ", микрорайон Железнодорожный, Пролетарская улица, 2к2";
-    private String email = "test@mail.ru";
-    private String name = "testName";
-    private String lastName = "testLastName";
-    private String phoneNumber = "88000000000";
 
     @Override
     @Before

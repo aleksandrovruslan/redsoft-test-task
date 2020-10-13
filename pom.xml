@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <selenium-java.version>3.141.59</selenium-java.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <allure-junit4.version>2.11.0</allure-junit4.version>
         <allure-maven.version>2.9</allure-maven.version>
         <aspectj.version>1.8.10</aspectj.version>
